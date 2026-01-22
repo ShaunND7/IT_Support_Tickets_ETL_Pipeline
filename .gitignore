@@ -1,0 +1,11 @@
+# environment variables (anywhere in the repo)
+.env
+**/.env
+
+# virtual environments
+venv/
+.venv/
+
+# python noise
+__pycache__/
+*.pyc
